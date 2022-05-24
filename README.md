@@ -9,4 +9,5 @@ We have used Hyperparameter tuning technique to obtain more accuracy for a given
 
 We have Deployed our web app with the help of Streamlit library.
 
-![heartdiseaseimg](https://user-images.githubusercontent.com/90398336/170057633-793d5948-1b50-430c-bd64-eef4f85ddc83.jpeg)
+![pic](https://user-images.githubusercontent.com/90398336/170058252-1a211074-fcf3-4568-9554-802704103652.jpeg)
+
